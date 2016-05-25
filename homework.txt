@@ -1,0 +1,5 @@
+Como se implementa en php
+la agregacion
+la composicion
+la herencia 
+la asociacion
